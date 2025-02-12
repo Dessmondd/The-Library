@@ -50,7 +50,6 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 
 #### 🐍 Python
 [Sourcedefender](https://pypi.org/project/sourcedefender/): Python code obfuscation using AES-256 encryption.<br>
-[PEXz](https://github.com/pex-tool/pexTool): For creating Python executable files
 
 #### 🛠️ Git
 [Github Cheat Sheet](https://github.com/luckypm/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. <br>
@@ -71,20 +70,14 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [Keep](https://github.com/keephq/keep): Open-source alert management and AIOps platform. <br>
 [SigNoz](https://github.com/SigNoz/signoz): Open source Application Performance Monitoring (APM) & Observability tool. <br>
 [LazyDocker](https://github.com/jesseduffield/lazydocker) A simple terminal UI for both docker and docker-compose, written in Go with the gocui library, and a good way to manage everything docker. <br>
-[Hyperlight](https://github.com/hyperlight-dev/hyperlight): Run code in micro VMs.
 
 ### 🤖 Robotics
 
 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics): Python codes for robotics algorithm. <br>
 
 ### 🛡️Cybersecurity
-[URLFINDER](https://github.com/projectdiscovery/urlfinder):  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.<br>
-[SpiderFoot](https://github.com/smicallef/spiderfoot): OSINT Automation Tool. <br>
-[FlareSolverr](github.com/FlareSolverr/FlareSolverr): Proxy to bypass Cloudflare protection <br>
-[Capa](https://github.com/mandiant/capa): Tool to identify malware capabilities in executables <br>
-[13FT](https://github.com/wasi-master/13ft): Self-hosted paywall and ad blocker <br>
-[Marreta](https://github.com/manualdousuario/marreta): Tool to clean and optimize web URLs <br>
-[ImpersonateTool](https://github.com/lexiforest/curl-impersonateTool): To mimic browser HTTP requests
+[URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.<br>
+[SpiderFoot](https://github.com/smicallef/spiderfoot) OSINT Automation Tool. <br>
 
 #### 🧠 Theat Intel
 [TweetFeed](https://tweetfeed.live/): IOCs reportados en Twitter
@@ -92,5 +85,3 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 ### 💭 Curiosity
 
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Minuscule SVG versions of your favourite logos. <br>
-[Liam ERD](github.com/liam-hq/liam): Auto-generate ER diagrams from database schemas <br>
-
